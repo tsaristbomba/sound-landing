@@ -1,0 +1,20 @@
+[
+  {
+    "src": "../images/chill.jpg",
+    "readTime": "9min",
+    "title": "Moment of silence",
+    "sub": "Samantha William"
+  },
+  {
+    "src": "../images/nature.jpg",
+    "readTime": "8min",
+    "title": "The sound of nature",
+    "sub": "Thomas Wise"
+  },
+  {
+    "src": "../images/wave.jpg",
+    "readTime": "7min",
+    "title": "Fantastic Wave",
+    "sub": "Karl Smith"
+  }
+]
